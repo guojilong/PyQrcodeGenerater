@@ -1,0 +1,2 @@
+# PyQrcodeGenerater
+qrcode generater utils
